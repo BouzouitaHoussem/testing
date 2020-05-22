@@ -1,0 +1,240 @@
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\obj\Debug\Solution.Web.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Solution.Web.dll.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Solution.Web.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Solution.Web.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\csc.exe
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\csc.exe.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\csc.rsp
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\csi.exe
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\csi.exe.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\csi.rsp
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.AppContext.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Console.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\vbc.exe
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\vbc.exe.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\vbc.rsp
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Antlr3.Runtime.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\EntityFramework.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Newtonsoft.Json.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Owin.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Service.Pattern.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Solution.Domain.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Solution.Service.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Helpers.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Http.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Mvc.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Optimization.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Razor.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.WebPages.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\WebGrease.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Solution.Data.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Service.Pattern.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Solution.Domain.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Solution.Domain.dll.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Solution.Service.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Helpers.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Mvc.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Optimization.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Razor.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.WebPages.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Newtonsoft.Json.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Antlr3.Runtime.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Http.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\EntityFramework.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Solution.Data.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\bin\Solution.Data.dll.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\obj\Debug\Solution.Web.csproj.CopyComplete
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\obj\Debug\Solution.Web.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Web\obj\Debug\Solution.Web.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Solution.Web.dll.config
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Solution.Web.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Solution.Web.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\csc.exe
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\csc.exe.config
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\csc.rsp
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\csi.exe
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\csi.exe.config
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\csi.rsp
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.AppContext.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Console.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.IO.Compression.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.IO.FileSystem.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.IO.Pipes.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.AccessControl.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.Claims.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.ValueTuple.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Xml.XPath.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\vbc.exe
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\vbc.exe.config
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\vbc.rsp
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\VBCSCompiler.exe
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Antlr3.Runtime.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\EntityFramework.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\EntityFramework.SqlServer.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Google.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Newtonsoft.Json.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Owin.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Service.Pattern.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Solution.Domain.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Solution.Service.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Net.Http.Formatting.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Helpers.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Http.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Http.WebHost.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Mvc.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Optimization.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Razor.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.WebPages.Deployment.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.WebPages.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.WebPages.Razor.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\WebGrease.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Solution.Data.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Service.Pattern.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Solution.Domain.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Solution.Domain.dll.config
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Solution.Service.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Helpers.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Mvc.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Optimization.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Razor.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.WebPages.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.WebPages.Deployment.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.WebPages.Razor.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Newtonsoft.Json.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Antlr3.Runtime.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Net.Http.Formatting.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Http.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\System.Web.Http.WebHost.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\EntityFramework.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\EntityFramework.SqlServer.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Google.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Solution.Data.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\bin\Solution.Data.dll.config
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\obj\Debug\Solution.Web.csprojAssemblyReference.cache
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\obj\Debug\Solution.Web.csproj.CopyComplete
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\obj\Debug\Solution.Web.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Web\obj\Debug\Solution.Web.pdb

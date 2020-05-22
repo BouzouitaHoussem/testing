@@ -1,0 +1,99 @@
+﻿@model IEnumerable<Solution.Domain.Entities.Livreur>
+
+
+@{
+    ViewBag.Title = "Livreurs";
+}
+
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0 text-dark">Livreurs</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active">List Livreurs</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+
+<!-- Main content -->
+<section class="content">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title"></h3>
+                </div>
+                <!-- /.card-header -->
+                <div class="card-body">
+                    <table id="example2" class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.FirstName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.LastName)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Salary)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Address)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Age)
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.FirstName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.LastName)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Salary)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Address)
+                                    </td>
+                                    <td>
+                                        @Html.DisplayFor(modelItem => item.Age)
+                                    </td>
+                                    <td>
+                                        <button onclick="location.href='@Url.Action("Edit", "Livreur", new { id = item.Id })';return false;" class="btn btn-primary">Edit</button>
+                                        <button onclick="location.href='@Url.Action("Delete", "Livreur", new { id = item.Id })';return false;" class="btn btn-danger">Delete</button>
+                                        <button onclick="location.href='@Url.Action("Stat", "Livreur", new { id = item.Id })';return false;" class="btn btn-success">Stat</button>
+                                        <button onclick="location.href='@Url.Action("Edit1", "Livreur", new { id = item.Id })';return false;" class="btn btn-primary">Affecter</button>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                        
+                    </table>
+                </div>
+                <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+            <button onclick="location.href='@Url.Action("Create", "Livreur")';return false;" class="btn btn-primary float-right">Create New</button>
+            <!-- /.card -->
+        </div>
+        <!-- /.col -->
+    </div>
+    <!-- /.row -->
+</section>
+<!-- /.content -->

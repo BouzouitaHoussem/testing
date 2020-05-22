@@ -1,0 +1,193 @@
+﻿@model IEnumerable<Solution.Domain.Entities.Livraison>
+
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0 text-dark">Coût de livraison</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item active">List Livreurs</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<!-- Main content -->
+<section class="content">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title"></h3>
+                </div>
+                <!-- /.card-header -->
+                <div class="card-body">
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+                        <table id="myForm" width="500px" border="1" style="border-collapse:collapse;">
+                            <tr class="form-group">
+                                <td width="80px">1</td>
+                                <td>Lieu</td>
+                                <td>
+                                    <SELECT id="Select1" NAME=Pays >
+                                        <option></option>
+                                        @foreach (string P in Model.Select(p => p.pays).Distinct())
+                                        {
+                                            <OPTION value="@P">@P</OPTION>
+                                        }
+                                    </SELECT>
+                                </td>
+                            </tr>
+                            <tr class="form-group">
+                                <td>2</td>
+                                <td>Poid de l'objet</td>
+                                <td>
+                                    <SELECT class="Region" NAME=Region>
+                                        <option></option>
+                                        @foreach (string P in Model.Select(p => p.lieu).Distinct())
+                                        {
+                                            <OPTION value="@P">@P</OPTION>
+                                        }
+                                    </SELECT>
+                                </td>
+                            </tr>
+                            <tr class="form-group">
+                                <td>3</td>
+                                <td>Cout de transport</td>
+                                <td><input class="selected" id="selected" type="text" name="txt" /></td>
+                            </tr>
+                            <tr class="form-group">
+                                <td>4</td>
+                                <td>Poid de projet</td>
+                                <td><input class="txt" type="text" name="txt" /></td>
+                            </tr>
+                            <tr class="form-group">
+                                <td>5</td>
+                                <td>Moyen de transport</td>
+                                <td><input class="txt" type="text" name="txt" /></td>
+                            </tr>
+                            <tr id="summation">
+                                <td>&nbsp;</td>
+                                <td align="right">Sum :</td>
+                                <td align="center"><span id="sum">0</span></td>
+                            </tr>
+                        </table>
+                        
+                    }
+                </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<br />
+<style>
+    body {
+        font-family: sans-serif;
+    }
+    tr {
+        margin : 10px;
+    }
+    td {
+        padding : 10px;
+    }
+    SELECT {
+        padding : 5px;
+        width : 220px;
+    }
+    #summation {
+        font-size: 18px;
+        font-weight: bold;
+        color: #174C68;
+    }
+
+    .txt {
+        font-weight: bold;
+        text-align: right;
+    }
+    .selected {
+        font-weight: bold;
+        text-align: right;
+    }
+</style>
+
+
+@functions {
+    string Selectedpays = "test";
+
+}
+
+
+
+<script>
+    document.getElementById("myForm").addEventListener("submit", myFunction);
+
+        function myFunction() {
+          $.ajax({
+        type: "POST",
+        url: '@Url.Action("CalculeCout", "Livraison", new { pays = "Tunisie",lieu="Tunis" ,transport="voiture",poid=1 })',
+        success: function (chData) {
+            selected = chData;            
+        }
+    });
+        }
+    $(document).ready(function () {
+
+        //iterate through each textboxes and add keyup
+        //handler to trigger sum event
+        $(".txt").each(function () {
+
+            $(this).keyup(function () {
+                calculateSum();
+            });
+        });
+        $(".Region").each(function () {
+
+            $(this).keyup(function () {
+                selected = parseFloat(this.value);
+                $(".txt").html(selected.toFixed(2));
+            });
+        });
+    });
+    var selected = 0;
+
+    function calculateSum() {
+
+        var sum = 0;
+        
+        //iterate through each textboxes and add the values
+        $(".txt").each(function () {
+
+            //add only if the value is number
+            if (!isNaN(this.value) && this.value.length != 0) {
+                sum += parseFloat(this.value);
+            }
+
+        });
+        $(".selected").each(function () {
+
+            //add only if the value is number
+            if (!isNaN(this.value) && this.value.length != 0) {
+                sum += parseFloat(this.value);
+            }
+
+        });
+        //.toFixed() method will roundoff the final sum to 2 decimal places
+        $("#sum").html(sum.toFixed(2));
+        $("#selected").html(selected.toFixed(0));
+    }
+</script>
+
+
+
+
+

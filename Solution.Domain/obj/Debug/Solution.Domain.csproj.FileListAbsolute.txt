@@ -1,0 +1,54 @@
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csproj.CopyComplete
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll.config
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csprojAssemblyReference.cache
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csproj.CopyComplete
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.pdb
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll.config
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.pdb
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csproj.CopyComplete
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.dll
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.pdb
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll.config
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.pdb
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.dll
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.xml
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csprojAssemblyReference.cache
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csproj.CopyComplete
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.dll
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.pdb
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll.config
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.dll
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Domain\bin\Debug\Solution.Domain.pdb
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csproj.CopyComplete
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.dll
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.pdb
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Domain\obj\Debug\Solution.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,80 @@
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.pdb
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll.config
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.xml
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csproj.CopyComplete
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.dll
+C:\Users\asus\source\repos\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll.config
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.pdb
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll.config
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.xml
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csprojAssemblyReference.cache
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csproj.CopyComplete
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.dll
+E:\Cloud sem2\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.pdb
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.dll
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.pdb
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.dll
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.pdb
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll.config
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.pdb
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll.config
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csproj.CopyComplete
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.dll
+C:\Users\hp\Desktop\houssem\pidev\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.pdb
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.dll
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.pdb
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.dll
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.dll
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.pdb
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.pdb
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll.config
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.pdb
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll.config
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.xml
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csprojAssemblyReference.cache
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csproj.CopyComplete
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.dll
+D:\Downloads\Solution-4Arctic-2020\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.pdb
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.dll
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Service.pdb
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.dll
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.dll
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\bin\Debug\Service.Pattern.pdb
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.pdb
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Data.dll.config
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.pdb
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\bin\Debug\Solution.Domain.dll.config
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\bin\Debug\EntityFramework.xml
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.csproj.CopyComplete
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.dll
+C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\Solution.Service\obj\Debug\Solution.Service.pdb

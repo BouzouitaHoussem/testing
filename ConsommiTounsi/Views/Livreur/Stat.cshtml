@@ -1,0 +1,233 @@
+﻿@model Solution.Domain.Entities.Livreur
+
+@{
+    ViewBag.Title = "Stat";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1 class="m-0 text-dark">Livreurs : @Html.DisplayFor(model => model.FirstName)-@Html.DisplayFor(model => model.LastName)</h1>
+                </div><!-- /.col -->
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item "><a href="/Livreur">List Livreurs</a></li>
+                        <li class="breadcrumb-item active">Stat Livreur</li>
+                    </ol>
+                </div><!-- /.col -->
+            </div><!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content-header -->
+    <!-- Main content -->
+    <section class="content">
+        <div class="container-fluid">
+            <!-- Small boxes (Stat box) -->
+            <div class="row">
+                <div class="col-lg-3 col-6">
+                    <!-- small box -->
+                    <div class="small-box bg-info">
+                        <div class="inner">
+                            <h3>150</h3>
+
+                            <p>New Orders</p>
+                        </div>
+                        <div class="icon">
+                            <i class="ion ion-bag"></i>
+                        </div>
+                        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                </div>
+                <!-- ./col -->
+                <div class="col-lg-3 col-6">
+                    <!-- small box -->
+                    <div class="small-box bg-success">
+                        <div class="inner">
+                            <h3>53<sup style="font-size: 20px">%</sup></h3>
+
+                            <p>Bounce Rate</p>
+                        </div>
+                        <div class="icon">
+                            <i class="ion ion-stats-bars"></i>
+                        </div>
+                        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                </div>
+                <!-- ./col -->
+                <div class="col-lg-3 col-6">
+                    <!-- small box -->
+                    <div class="small-box bg-warning">
+                        <div class="inner">
+                            <h3>44</h3>
+
+                            <p>User Registrations</p>
+                        </div>
+                        <div class="icon">
+                            <i class="ion ion-person-add"></i>
+                        </div>
+                        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                </div>
+                <!-- ./col -->
+                <div class="col-lg-3 col-6">
+                    <!-- small box -->
+                    <div class="small-box bg-danger">
+                        <div class="inner">
+                            <h3>65</h3>
+
+                            <p>Unique Visitors</p>
+                        </div>
+                        <div class="icon">
+                            <i class="ion ion-pie-graph"></i>
+                        </div>
+                        <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+                    </div>
+                </div>
+                <!-- ./col -->
+            </div>
+            <div class="row">
+                <!-- /.row -->
+                <section class="col-lg-12 connectedSortable">
+                    <!-- Custom tabs (Charts with tabs)-->
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">
+                                <i class="fas fa-chart-pie mr-1"></i>
+                                Livraisons
+                            </h3>
+                            <div class="card-tools">
+                                <ul class="nav nav-pills ml-auto">
+                                    <li class="nav-item">
+                                        <a class="nav-link active" href="#revenue-chart" data-toggle="tab">Bar</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#sales-chart" data-toggle="tab">Line</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div><!-- /.card-header -->
+                        <div class="card-body">
+                            <div class="tab-content p-0">
+                                <!-- Morris chart - Sales -->
+                                <div class="chart tab-pane active" id="revenue-chart" style="position: relative; height: 100%;">
+                                    <div Style="font-family: Corbel; font-size: small ;text-align:center " class="row">
+                                        <div style="width:100%;height:100%">
+                                            <canvas id="myChartbar" style="padding: 0;margin: auto;display: block; "> </canvas>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="chart tab-pane" id="sales-chart" style="position: relative; height: 100%;">
+                                    <div Style="font-family: Corbel; font-size: small ;text-align:center " class="row">
+                                        <div style="width:100%;height:100%">
+                                            <canvas id="speedChart" style="padding: 0;margin: auto;display: block; "></canvas>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+
+                </section>
+
+            </div>
+    </section>
+}
+
+@section head
+{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.min.js" type="text/javascript"></script>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+}
+
+<script>
+
+    $.ajax({
+        type: "POST",
+        url: '@Url.Action("NewChart", "Livreur")',
+        contentType: "application/json; charset=utf-8",
+        dataType: "json",
+        success: function (chData) {
+            var aData = chData;
+            var aLabels = aData[0];
+            var aDatasets1 = aData[1];
+            var dataT = {
+                labels: aLabels,
+                datasets: [{
+                    label: '@Html.DisplayFor(model => model.FirstName)-@Html.DisplayFor(model => model.LastName) ',
+                    data: aDatasets1,
+                    fill: false,
+                    backgroundColor: ["rgba(54, 162, 235, 0.2)", "rgba(255, 99, 132, 0.2)", "rgba(255, 159, 64, 0.2)", "rgba(255, 205, 86, 0.2)", "rgba(75, 192, 192, 0.2)", "rgba(153, 102, 255, 0.2)", "rgba(201, 203, 207, 0.2)"],
+                    borderColor: ["rgb(54, 162, 235)", "rgb(255, 99, 132)", "rgb(255, 159, 64)", "rgb(255, 205, 86)", "rgb(75, 192, 192)", "rgb(153, 102, 255)", "rgb(201, 203, 207)"],
+                    borderWidth: 1
+                }]
+            };
+            var chartOptions = {
+              legend: {
+                display: true,
+                position: 'top',
+                labels: {
+                  boxWidth: 80,
+                  fontColor: 'black'
+                }
+              },
+              scales: {
+                  xAxes: [{
+                      type: "time",
+                       time: {
+                            unit: 'day',
+                            round: 'day',
+                            tooltipFormat: "D MM YYYY"
+                          },
+                      gridLines: {
+                        display: false,
+                        color: "black"
+                      },
+                      scaleLabel: {
+                        display: true,
+                        labelString: "Dates",
+                        fontColor: "red"
+                      }
+                  }],
+                yAxes: [{
+                  gridLines: {
+                    color: "black",
+                    borderDash: [2, 5],
+                  },
+                  scaleLabel: {
+                    display: true,
+                    labelString: "Livraison",
+                    fontColor: "green"
+                  }
+                }]
+              }
+            };
+            var ctx = $("#myChartbar").get(0).getContext("2d");
+            var speedCanvas = document.getElementById("speedChart");
+            var myNewChart = new Chart(ctx, {
+                type: 'bar',
+                data: dataT,
+                options:chartOptions
+                }
+            );
+            
+            //Chart.defaults.global.defaultFontFamily = "Lato";
+            //Chart.defaults.global.defaultFontSize = 18;
+            
+
+            var lineChart = new Chart(speedCanvas, {
+              type: 'line',
+              data: dataT,
+              options: chartOptions
+            });
+        }
+    });
+</script>
+
