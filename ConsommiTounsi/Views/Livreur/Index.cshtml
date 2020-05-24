@@ -52,35 +52,53 @@
                                 <th>
                                     @Html.DisplayNameFor(model => model.Age)
                                 </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Disponibilité)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Distance)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Affectation)
+                                </th>
                                 <th></th>
                             </tr>
                         </thead>
                         <tbody>
                             @foreach (var item in Model)
                             {
-                                <tr>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.FirstName)
-                                    </td>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.LastName)
-                                    </td>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.Salary)
-                                    </td>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.Address)
-                                    </td>
-                                    <td>
-                                        @Html.DisplayFor(modelItem => item.Age)
-                                    </td>
-                                    <td>
-                                        <button onclick="location.href='@Url.Action("Edit", "Livreur", new { id = item.Id })';return false;" class="btn btn-primary">Edit</button>
-                                        <button onclick="location.href='@Url.Action("Delete", "Livreur", new { id = item.Id })';return false;" class="btn btn-danger">Delete</button>
-                                        <button onclick="location.href='@Url.Action("Stat", "Livreur", new { id = item.Id })';return false;" class="btn btn-success">Stat</button>
-                                        <button onclick="location.href='@Url.Action("Edit1", "Livreur", new { id = item.Id })';return false;" class="btn btn-primary">Affecter</button>
-                                    </td>
-                                </tr>
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.FirstName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.LastName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Salary)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Address)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Age)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Disponibilité)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Distance)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Affectation)
+                                </td>
+                                <td>
+                                    <button onclick="location.href='@Url.Action("Edit", "Livreur", new { id = item.Id })';return false;" class="btn btn-primary">Edit</button>
+                                    <button onclick="location.href='@Url.Action("Delete", "Livreur", new { id = item.Id })';return false;" class="btn btn-danger">Delete</button>
+                                    <button onclick="location.href='@Url.Action("Stat", "Livreur", new { id = item.Id })';return false;" class="btn btn-success">Stat</button>
+                                    <button onclick="location.href='@Url.Action("Edit1", "Livreur", new { id = item.Id })';return false;" class="btn btn-primary">Affecter</button>
+                                </td>
+                            </tr>
                             }
                         </tbody>
                         

@@ -5,7 +5,7 @@ networks:
 services:
   consommitounsi:
     build:
-      context: C:\Users\hp\Desktop\houssem\pidev\gestion de livreur\Solution-4Arctic-2020\ConsommiTounsi
+      context: C:\Users\hp\Desktop\gestion de livraison\testing\ConsommiTounsi
       dockerfile: Dockerfile
     image: consommitounsi
     ports:
